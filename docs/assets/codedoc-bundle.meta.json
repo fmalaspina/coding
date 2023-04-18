@@ -1,0 +1,121 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/transport/setup-jss.js",
+      "hash": "tUdbTEesEREWs0nuIpkHPg=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "C:/projects/coding/.codedoc/content/theme.ts",
+      "hash": "AP1mrmvmfXG43RK4l/EoHg=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/selection.js",
+      "hash": "v+yxWWmXtP4VbsF//xsjNQ=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/same-line-length.js",
+      "hash": "6y1qdpLrwZe9+RB3xo1gVw=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-hint/index.js",
+      "hash": "tfIc/VW5BYJaXL2/y1splw=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-ref/index.js",
+      "hash": "ichOpxeM5Vt+65ppPg5N8Q=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/smart-copy.js",
+      "hash": "tUOgdMlU9b4B26YXrbLxEQ=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/heading/copy-headings.js",
+      "hash": "o03YtmaFkyUzEn+fAA/d7Q=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/contentnav/highlight.js",
+      "hash": "b/QVNNpgcdPvB+yh7E5MLA=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/transport/deferred-iframe.js",
+      "hash": "ige4UrPDYUOXuP7S44YFtA=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js",
+      "hash": "/e7qhvzORNss+DdK2/QmzQ=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js",
+      "hash": "8dVDuzEDhIV58tLP6tMn/w=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
+      "hash": "aE0E/rARH1MKaNuxGFykGQ=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-links/copy-line-link.js",
+      "hash": "9V+tU/R9xtyiETQKU3mUBw=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/footnote/gather-footnotes.js",
+      "hash": "rXkO8MpSNef3N+DpXhY2yw=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "ffcDo8ZLh0TVLPb/WpE8ew=="
+    },
+    {
+      "name": "GithubSearch",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/misc/github/search.js",
+      "hash": "TqUj0p6LmSN15fHzkWwDFw=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js",
+      "hash": "W6kQ8KHlpxof8gZerES9CA=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js",
+      "hash": "s/X+P/M4G9yJMP+y7CLb4A=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js",
+      "hash": "QpO0tW1UZKuGoHINgPh6Vg=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
+      "hash": "2So9FKN2p7P0LhkvrO/rhw=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
+      "hash": "jQsf4KJ2okVlLJZMpExnyg=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "C:/projects/coding/.codedoc/node_modules/@codedoc/core/dist/es5/transport/renderer.js",
+    "hash": "wrGAYEm+Qxbd0CiB3XlJYg=="
+  }
+}
